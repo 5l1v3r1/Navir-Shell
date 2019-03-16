@@ -7,7 +7,7 @@ Read Folder and File in server and can you edit file or change chmod of file or 
 #GetUsers 
 #Config Grabber
 
-## Version : 0.5
+## Version : 0.6
 
 ![capture](https://user-images.githubusercontent.com/46041727/53378346-2093c980-391a-11e9-9481-d14d4b407e44.PNG)
 ![Capture](https://user-images.githubusercontent.com/46041727/54474793-ae8b0380-47a6-11e9-8707-4f26d8f229d0.PNG)
