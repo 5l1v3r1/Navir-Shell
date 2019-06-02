@@ -9,7 +9,5 @@ Read Folder and File in server and can you edit file or change chmod of file or 
 #Mass Deface
 ## Version : 0.7
 
-![capture](https://user-images.githubusercontent.com/46041727/53378346-2093c980-391a-11e9-9481-d14d4b407e44.PNG)
-![Capture](https://user-images.githubusercontent.com/46041727/54474793-ae8b0380-47a6-11e9-8707-4f26d8f229d0.PNG)
-![capture3](https://user-images.githubusercontent.com/46041727/53378360-2b4e5e80-391a-11e9-82fb-d3faf411950c.PNG)
-![capture4](https://user-images.githubusercontent.com/46041727/53378385-35705d00-391a-11e9-8a46-6d4d3bcf6cb8.PNG)
+![التقاط](https://user-images.githubusercontent.com/46041727/58761276-29182380-854b-11e9-8bff-68900cb35000.PNG)
+![لتقاط](https://user-images.githubusercontent.com/46041727/58761278-2b7a7d80-854b-11e9-9da6-0f60aa341592.PNG)
